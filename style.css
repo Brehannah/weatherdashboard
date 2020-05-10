@@ -1,0 +1,21 @@
+/* I never know what to do here */
+body
+{
+    font-family: 'elephant', sans-serif;
+}
+
+.city-and-date {
+
+    display: inline-flex;
+}
+
+.city {
+    margin-right: 10px;
+}
+
+.card-body-top {
+padding: 20px;
+font-size: 200%;
+font-weight: bold;
+
+}
